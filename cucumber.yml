@@ -1,0 +1,1 @@
+default: -r features -b --format pretty --format html --out=output/result.html
